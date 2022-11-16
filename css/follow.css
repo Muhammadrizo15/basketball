@@ -78,4 +78,45 @@ body {
   font-weight: 600;
   font-size: 15px;
   color: #122E82;
-}/*# sourceMappingURL=setting.css.map */
+}
+
+.wrap main .contacts {
+  padding: 25px 0px 33px 25px;
+  background: #F7F9FF;
+  border-radius: 10px;
+}
+.wrap main .contacts h3 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  color: #000000;
+}
+.wrap main .contacts .suptitle {
+  font-style: normal;
+  font-weight: 400;
+  padding-top: 20px;
+  font-size: 20px;
+  line-height: 25px;
+  color: #000000;
+}
+.wrap main .contacts ul {
+  padding: 10px 0px 30px 25px;
+}
+.wrap main .contacts ul li {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: #232325;
+}
+.wrap main .contacts button {
+  cursor: pointer;
+  padding: 20px 40px;
+  border: 0;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 22px;
+  color: #FFFFFF;
+  background: #00A76A;
+  border-radius: 5px;
+}/*# sourceMappingURL=follow.css.map */

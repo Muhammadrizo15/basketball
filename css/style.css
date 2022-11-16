@@ -66,6 +66,8 @@ body {
 }
 .wrap main {
   flex: 1 1 auto;
+  padding-top: 100px;
+  margin-bottom: 50px;
 }
 .wrap footer {
   background-color: #fff;
@@ -79,8 +81,6 @@ body {
 }
 
 .wrap main .static {
-  padding-bottom: 10px;
-  padding-top: 100px;
   display: flex;
   margin-bottom: 315px;
 }
