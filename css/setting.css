@@ -66,6 +66,7 @@ body {
 }
 .wrap main {
   flex: 1 1 auto;
+  margin-bottom: 50px;
 }
 .wrap footer {
   background-color: #fff;

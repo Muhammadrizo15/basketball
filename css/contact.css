@@ -66,6 +66,7 @@ body {
 }
 .wrap main {
   flex: 1 1 auto;
+  margin-bottom: 50px;
 }
 .wrap footer {
   background-color: #fff;
@@ -76,4 +77,53 @@ body {
   font-weight: 600;
   font-size: 15px;
   color: #122E82;
+}
+
+.wrap main .contacts {
+  padding: 25px 0px 33px 25px;
+  background: #F7F9FF;
+  border-radius: 10px;
+}
+.wrap main .contacts h3 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  color: #000000;
+}
+.wrap main .contacts .suptitle {
+  width: 626px;
+  font-style: normal;
+  font-weight: 400;
+  padding-top: 20px;
+  font-size: 20px;
+  line-height: 25px;
+  color: #000000;
+}
+.wrap main .contacts .ways__list {
+  padding-top: 242px;
+}
+.wrap main .contacts .ways__list p {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.wrap main .contacts .ways__list .tg {
+  padding: 28px 0px;
+}
+.wrap main .contacts .ways__list .ways {
+  display: flex;
+  align-items: center;
+}
+.wrap main .contacts .ways__list .ways img {
+  padding-right: 10px;
+}
+.wrap main .contacts .ways__list .ways a {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  color: #232325;
+}
+.wrap main .contacts .ways__list .ways:last-child {
+  padding: 0;
 }/*# sourceMappingURL=contact.css.map */
